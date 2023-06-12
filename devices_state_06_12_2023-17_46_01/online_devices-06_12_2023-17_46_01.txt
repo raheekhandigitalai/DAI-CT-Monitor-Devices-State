@@ -2,15 +2,15 @@
 ['URL: https://digital.ai', 'Status Code: 200']
 ================================================
 3929  |  Available  |  iPhone 11 partners-uk-05  |  00008030-001D44110A91802E
-['URL: https://digital.ai/', 'Status Code: 200']+
+['URL: https://digital.ai/', 'Status Code: 200']
 ================================================
 549  |  Available  |  iPhone 11 Partners-01  |  00008030-001261AC3A80802E
 ['URL: https://digital.ai/', 'Status Code: 200']
 ================================================
-5620  |  Available  |  Google Pixel 6a_partners-07  |  25271JEGR04675
-['URL: https://digital.ai', 'Status Code: 200']
+3632  |  Available  |  iPhone 12 Pro Partners-06  |  00008101-00121D300C11001E
+['URL: https://digital.ai/', 'Status Code: 200']
 ================================================
-3641  |  Available  |  Samsung Galaxy S10 Plus Partners-05  |  R28M30D74JN
+5620  |  Available  |  Google Pixel 6a_partners-07  |  25271JEGR04675
 ['URL: https://digital.ai', 'Status Code: 200']
 ================================================
 46920  |  Available  |  Partners-sg-02 Samsung Galaxy Tab S7  |  R52NC0E9D2W
@@ -31,14 +31,14 @@
 46936  |  Available  |  partners-sg-01 Samsung Galaxy J7 Prime  |  3300eb5d2ca49319
 ['URL: https://digital.ai', 'Status Code: 200']
 ================================================
-546  |  Available  |  Samsung Galaxy S20 Partners-03  |  RF8N20MCA7H
-['Error Message: java.io.IOException: No internet connection']
-================================================
 3941  |  Available  |  iPhone 12 partners-uk-01  |  00008101-001014181E84001E
 ['URL: https://digital.ai/', 'Status Code: 200']
 ================================================
-3632  |  Available  |  iPhone 12 Pro Partners-06  |  00008101-00121D300C11001E
-['URL: https://digital.ai/', 'Status Code: 200']
+3641  |  Available  |  Samsung Galaxy S10 Plus Partners-05  |  R28M30D74JN
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+546  |  Available  |  Samsung Galaxy S20 Partners-03  |  RF8N20MCA7H
+['Error Message: java.io.IOException: No internet connection']
 ================================================
 46946  |  Available  |  Partners-sg-04 iPhone X   |  4a87c6ff96ac1566463b8f9b9e28b66d4fd7a76c
 ['URL: https://digital.ai/', 'Status Code: 200']

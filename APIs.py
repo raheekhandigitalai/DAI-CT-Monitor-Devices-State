@@ -2,6 +2,7 @@ import requests
 import json
 import configparser
 import helpers
+import traceback
 
 from helpers import logger
 
@@ -17,7 +18,7 @@ def get_device_list():
 
     headers = {
         'Content-Type': 'application/json',
-        'Authorization': 'Bearer %s' % access_key
+        'Authorization': f'Bearer {access_key}'
     }
 
     response = requests.request('GET',
@@ -31,7 +32,7 @@ def get_device_list():
     if response.status_code == 200:
         logger(
             'Python Script (function: get_device_list) - Successfully retrieved device list from SeeTest Cloud, '
-            'response output: %s' % response.text)
+            f'response output: {response.text}')
 
         device_id = get_json_values_from_response_content('id', response.content)
         device_status = get_json_values_from_response_content('displayStatus', response.content)
@@ -40,12 +41,12 @@ def get_device_list():
 
         for i in range(len(device_status)):
             combined_list.append(
-                str(device_id[i]) + ' | ' + device_status[i] + ' | ' + device_name[i] + ' | ' + device_udid[i])
+                f'{str(device_id[i])} | {device_status[i]} | {device_name[i]} | {device_udid[i]}')
 
     else:
         logger(
             'Python Script (function: get_device_list) - Unable to retrieve device list from SeeTest Cloud, '
-            'response output: %s' % response.text)
+            f'response output: {response.text}')
 
     return combined_list
 
@@ -54,17 +55,17 @@ def run_http_request(device_id):
 
     headers = {
         'Content-Type': 'application/json',
-        'Authorization': 'Bearer %s' % access_key
+        'Authorization': f'Bearer {access_key}'
     }
 
     payload = json.dumps(
         {
-            'url': '%s' % url_to_hit
+            'url': f'{url_to_hit}'
         }
     )
 
     response = requests.request('POST',
-                                cloud_url_and_end_point + '/%s/http-request' % device_id,
+                                cloud_url_and_end_point + f'/{device_id}/http-request',
                                 data=payload,
                                 headers=headers,
                                 verify=True,
@@ -81,21 +82,21 @@ def run_http_request(device_id):
         if url == '':
             status = get_singular_json_value_from_response_content_from_error('status', response.content)
 
-            # Check if the status is successful, it means that the device is online, but it still couldn't
+            # Check if the status is in 'SUCCESS' state, it means that the device is online, but it still couldn't
             # run the http request, this will capture the Error message
             if 'SUCCESS' in status:
                 error = get_singular_json_value_from_response_content('error', response.content)
-                response_list = ['Error Message: ' + error]
-            # If the device is not in SUCCESS state, it means the device is in ERROR, in such case, capture
-            # appropriate output
+                response_list = [f'Error Message: {error}']
+            # If the device is not in 'SUCCESS' state, it means the device is in a different problematic state
             else:
                 message = get_singular_json_value_from_response_content_from_error('message', response.content)
                 code = get_singular_json_value_from_response_content_from_error('code', response.content)
-                response_list = ['Status: ' + status, 'Message: ' + message, 'Code: ' + code]
+                response_list = [f'Status: {status}', f'Message: {message}', f'Code: {code}']
         else:
-            response_list = ['URL: ' + url, 'Status Code: ' + str(status_code)]
-    except:
-        print('not sure')
+            response_list = [f'URL: {url}', f'Status Code: {str(status_code)}']
+    except Exception as e:
+        traceback.print_exc()
+        logger(f"An Error occurred while running 'run_http_request' method, Stack Trace: {str(e)}")
 
     return response_list
 
@@ -103,45 +104,45 @@ def run_http_request(device_id):
 def get_device_tags(device_id):
 
     headers = {
-        'Authorization': 'Bearer %s' % access_key
+        'Authorization': f'Bearer {access_key}'
     }
 
     response = requests.request('GET',
-                                cloud_url_and_end_point + '/%s/tags' % device_id,
+                                cloud_url_and_end_point + f'/{device_id}/tags',
                                 headers=headers,
                                 verify=True)
 
     if response.status_code == 200:
         logger(
             'Python Script (function: get_device_tags) - Successfully retrieved all tags from device, '
-            'response output: %s' % response.text)
+            f'response output: {response.text}')
         return get_data(response.content)
     else:
         logger(
             'Python Script (function: get_device_tags) - Unable to retrieve tags from device, '
-            'response output: %s' % response.text)
+            f'response output: {response.text}')
 
 
 def remove_all_device_tags(device_id):
 
     headers = {
         'Content-Type': 'application/json',
-        'Authorization': 'Bearer %s' % access_key
+        'Authorization': f'Bearer {access_key}'
     }
 
     response = requests.request('DELETE',
-                                cloud_url_and_end_point + '/' + device_id + '/tags',
+                                cloud_url_and_end_point + f'/{device_id}/tags',
                                 headers=headers,
                                 verify=True)
 
     if response.status_code == 200:
         logger(
             'Python Script (function: remove_all_device_tags) - Successfully removed all device tags from device, '
-            'response output: %s' % response.text)
+            f'response output: {response.text}')
     else:
         logger(
             'Python Script (function: remove_all_device_tags) - Unable to remove device tags from device, '
-            'response output: %s' % response.text)
+            f'response output: {response.text}')
 
     return response
 
@@ -149,22 +150,22 @@ def remove_all_device_tags(device_id):
 def add_device_tag(device_id, tag_value):
 
     headers = {
-        'Authorization': 'Bearer %s' % access_key,
-        'Content-Type': 'application/json'
+        'Content-Type': 'application/json',
+        'Authorization': f'Bearer {access_key}'
     }
 
     response = requests.request('PUT',
-                                cloud_url_and_end_point + '/' + device_id + '/tags/' + tag_value,
+                                cloud_url_and_end_point + f'/{device_id}/tags/{tag_value}',
                                 headers=headers,
                                 verify=True)
 
     if response.status_code == 200:
         logger(
-            'Python Script (function: add_device_tag) - Successfully added device tag to device, response output: %s' % response.text)
-        logger('Python Script (function: add_device_tag) - Device Tag Added: %s' % tag_value)
+            f'Python Script (function: add_device_tag) - Successfully added device tag to device, response output: {response.text}')
+        logger(f'Python Script (function: add_device_tag) - Device Tag Added: {tag_value}')
     else:
         logger(
-            'Python Script (function: add_device_tag) - Unable to add device tag to device, response output: %s' % response.text)
+            f'Python Script (function: add_device_tag) - Unable to add device tag to device, response output: {response.text}')
 
     return response
 
