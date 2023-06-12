@@ -1,0 +1,78 @@
+4979  |  Available  |  Samsung Galaxy S22 Partners-de-04  |  R5CT42QLP1J
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3929  |  Available  |  iPhone 11 partners-uk-05  |  00008030-001D44110A91802E
+['URL: https://digital.ai/', 'Status Code: 200']+
+================================================
+549  |  Available  |  iPhone 11 Partners-01  |  00008030-001261AC3A80802E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+5620  |  Available  |  Google Pixel 6a_partners-07  |  25271JEGR04675
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3641  |  Available  |  Samsung Galaxy S10 Plus Partners-05  |  R28M30D74JN
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+46920  |  Available  |  Partners-sg-02 Samsung Galaxy Tab S7  |  R52NC0E9D2W
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+555  |  Available  |  OnePlus 7 pro Partners-04  |  48109839
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3924  |  Available  |  Samsung Galaxy S10 Plus Partners-uk-03  |  R58M36QF1SK
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+4137  |  Available  |  Xiaomi Redmi Note 8 Pro partners-de-05  |  sovcovdercojfuzt
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3932  |  Available  |  iPhone XR partners-uk-07  |  00008020-001539003AEA002E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+46936  |  Available  |  partners-sg-01 Samsung Galaxy J7 Prime  |  3300eb5d2ca49319
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+546  |  Available  |  Samsung Galaxy S20 Partners-03  |  RF8N20MCA7H
+['Error Message: java.io.IOException: No internet connection']
+================================================
+3941  |  Available  |  iPhone 12 partners-uk-01  |  00008101-001014181E84001E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+3632  |  Available  |  iPhone 12 Pro Partners-06  |  00008101-00121D300C11001E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+46946  |  Available  |  Partners-sg-04 iPhone X   |  4a87c6ff96ac1566463b8f9b9e28b66d4fd7a76c
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+46926  |  Available  |  Partners-sg-06 iPad (8th generation)  |  00008020-000229123428402E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+3919  |  Available  |  Samsung Galaxy S22 Partners-uk-06  |  R3CT50E8RLP
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+5624  |  Available  |  iPhone 12 Pro Max Partners-08  |  00008101-0002451C0238001E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+5627  |  Available  |  iPhone Xs Max Partners-09  |  00008020-001975191E30003A
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+46932  |  Available  |  Partners-sg-08 Samsung Galaxy S9 Plus  |  28491c9da53f7ece
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+45152  |  Available  |  Samsung Galaxy S21 Partners-uk-04  |  R5CR7101E5F
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3944  |  Available  |  iPhone 13 Pro partners-uk-02  |  00008110-000C79110E52401E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+46924  |  Available  |  Partners-sg-03 iPhone 13 Pro Max  |  00008110-000629E9147A801E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+4134  |  Available  |  iPhone 11 Pro Partners-de-01  |  00008030-000470D236C1802E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+4142  |  Available  |  iPhone XS Partners-de-03  |  00008020-00150D0626D8002E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+4132  |  Available  |  iPhone SE Partners-de-02  |  3046967249684ec09d722571758aa53232379b61
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================

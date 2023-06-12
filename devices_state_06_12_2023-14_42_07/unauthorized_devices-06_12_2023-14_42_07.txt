@@ -1,0 +1,6 @@
+6552657  |  Unauthorized  |  Samsung Galaxy S10 Plus CA-008  |  R58M3070AMM
+6552664  |  Unauthorized  |  Samsung Galaxy S20 ultra 5G CA-009  |  R3CN20SMJZH
+2698413  |  Unauthorized  |  Samsung Galaxy S10 CA-004  |  RF8MA203ZXN
+5587234  |  Unauthorized  |  Samsung Galaxy A51 CA-005  |  R58N40A8KDP
+4222608  |  Unauthorized  |  iPhone X CA-003_moved  |  eeef7b1c7c9703206ec949639ce2c8799744d5be
+6552610  |  Unauthorized  |  Samsung Galaxy S10 CA-006  |  RF8MB0SJ9BA
