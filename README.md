@@ -1,4 +1,4 @@
-## Script for Checking WiFi Connectivity
+## Script for understanding Devices State
 
 Digital.ai has developed an API that allow Cloud Admins to perform HTTP request on a Mobile Device (iOS & Android), and get the HTTP response in return. 
 
