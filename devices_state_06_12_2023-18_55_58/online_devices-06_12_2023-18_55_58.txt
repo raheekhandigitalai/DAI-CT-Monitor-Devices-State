@@ -1,0 +1,1011 @@
+6141304  |  Available  |  Samsung Galaxy Note 9 US-0244  |  2ba18f2d221c7ece
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3170519  |  Available  |  Samsung Galaxy S10 US-0198  |  RF8M20YCZTZ
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+8330610  |  Available  |  Samsung Galaxy S20 5G US-0309  |  RFCN103A7JE
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+4231807  |  Available  |  iPhone 7 Plus US-0251  |  bbf29400e94f3e059b0930ef549033354e6c683f
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+8785852  |  Available  |  Samsung Galaxy S10 DE0086  |  RF8M90CTW5H
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+6239209  |  Available  |  iPhone 8 Plus US-0285  |  d86ffe22ca99d1b87a548999a2d6178f1aedafb7
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+2371720  |  Available  |  Google Pixel 3 XL SGDemo-0034  |  89JY07MJ0
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+6862765  |  Available  |  iPhone 7 UKDemo-0199  |  abff366b0bb51d6a9ac71646e4860ed132792ae1
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+7675936  |  Available  |  Samsung Galaxy S8 AU-057  |  ce021712c45e98950c
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+8601390  |  Available  |  One plus 10 Pro UKDemo-0202_Setup_Pending  |  9f4b9612
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+6937469  |  Available  |  Google Pixel 5 US-0299  |  0C041FDD40060V
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+8577701  |  Available  |  Samsung Galaxy S22 Ultra UKDemo-0207  |  R3CT605BNDF
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+2045187  |  Available  |  Xiaomi MI PAD 4 DE0029  |  4f64cd15
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+1951719  |  Available  |  Samsung Galaxy S8 AU0033  |  ce10171a1a188c2c05
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+6494056  |  Available  |  iPad Pro (11-inch) US-0295  |  00008027-000C50C12687002E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+8577707  |  Available  |  Samsung Galaxy S22 UKDemo-0206  |  R3CT50LTNLK
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+2341222  |  Available  |  iPhone 7 UKDemo-012  |  951a090d0839ebee2f22d8dcd2e08f706f0ff090
+['Status: ERROR', 'Message: paltielX is not alive on 951a090d0839ebee2f22d8dcd2e08f706f0ff090', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+3457579  |  Available  |  iPad Pro (12.9-inch) 4th gen UKDemo-0145  |  00008027-001505963A62402E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+5728335  |  Available  |  Samsung Galaxy S22 Ultra DE0075  |  R3CT4089K0N
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+1882086  |  Available  |  OnePLUS 6T US-0111  |  40e05910
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+6467366  |  Available  |  Samsung Galaxy Tab S3 AU-055  |  7dc5b870484f0ae3
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3831629  |  Available  |  Zebra Technologies TC52 US-0233  |  21106524200289
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+16  |  Available  |  Samsung Galaxy S7 US-0011  |  88595030
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+1452807  |  Available  |  Samsung Galaxy S8 US0101  |  9887e8343439443447
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+9064575  |  Available  |  iPhone XR SGDemo-0104  |  00008020-000D08D126F1002E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+8577846  |  Available  |  iPhone 13 Pro Max UKDemo-0203  |  00008110-001C590A1A2A401E
+['Status: ERROR', 'Message: paltielX is not alive on 00008110-001C590A1A2A401E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+4073231  |  Available  |  iPad (7th generation) US-0255  |  149d864cb402056b2346a6181c0f5abb6428ae64
+['Status: ERROR', 'Message: paltielX is not alive on 149d864cb402056b2346a6181c0f5abb6428ae64', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+3455456  |  Available  |  Google Pixel 4 Ukdemo-0141_setup pending   |  9A231FFAZ000GS
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3073932  |  Available  |  iPhone 8 Plus US-0181  |  56406e679f4c3343fd8fbb40dbba577d866aafbf
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+8577869  |  Available  |  iPhone 13 Pro Max UKDemo-0204  |  00008110-0016482C0ED3801E
+['Status: ERROR', 'Message: paltielX is not alive on 00008110-0016482C0ED3801E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+5728612  |  Available  |  Samsung Galaxy S21 5G DE0074  |  R3CRC08PMWP
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+1880643  |  Available  |  iPhone XS US-0103  |  00008020-000D59EC0250003A
+['Status: ERROR', 'Message: paltielX is not alive on 00008020-000D59EC0250003A', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+7033653  |  Available  |  One Plus 10 Pro-UKDemo-103  |  ccabcd8a
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+8815768  |  Available  |  iPhone 7 DE0087  |  9fe06fd1602c8429d104fcd0aa16a713d52e4240
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+3096288  |  Available  |  Samsung Galaxy S20 Plus US-0158  |  R58N20KZJWB
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+8473455  |  Available  |  Samsung Galaxy S20 FE 5G  |  RFCR20P6TPL
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3422899  |  Available  |  iPhone 11 Pro UKDemo-0105  |  00008030-001105691184802E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+2102901  |  Available  |  Samsung Galaxy S10 UKDemo-0079  |  RF8M827172F
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3801965  |  Available  |  IPhone 12 Pro UKDemo-0114  |  00008101-001224312103001E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+3096284  |  Available  |   Samsung Note 8 US-0159  |  988a9b38525542584b30
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+1880652  |  Available  |  iPad mini 4 US-0106  |  cd9bb635ef6b794947155606e83751f97e1c44fc
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+3749521  |  Available  |  Samsung Galaxy Note 9 SGDemo-0114  |  4c33454248423498
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3450433  |  Available  |  iPhone XS UKDemo-0123  |  00008020-000930380202002E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+1460641  |  Available  |  IPhone 8 Plus US0025  |  76f7fc42b07d71f27dde484381ddbc72668c20ba
+['Status: ERROR', 'Message: paltielX is not alive on 76f7fc42b07d71f27dde484381ddbc72668c20ba', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+8577873  |  Available  |  iPhone 13 Pro UKDemo-0205  |  00008110-000A50422242401E
+['Status: ERROR', 'Message: paltielX is not alive on 00008110-000A50422242401E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+6494142  |  Available  |  iPhone 12 Pro US-0292  |  00008101-00030C302130001E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+2367407  |  Available  |  iPad 7thGen UKDemo-0090  |  9f636ffc6a4c4ebbe3bf4068e047e3830a8bc273
+['Status: ERROR', 'Message: paltielX is not alive on 9f636ffc6a4c4ebbe3bf4068e047e3830a8bc273', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+6552652  |  Available  |  iPhone X CA-007  |  af7e697a9a069f96bee1d7d003c9a47521ba9a27
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+2175035  |  Available  |  Samsung Galaxy S10 AU0040  |  R39M2015FZD
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+727912  |  Available  |  EMM - iPhone 6s UKDemo-0057  |  eecf81caa67c162d4d87ad351d47e9ed829191a0
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+6036540  |  Available  |  iPhone X UKDemo-0192  |  c2133616db6d2295f07d43c11164fe278c504560
+['Status: ERROR', 'Message: paltielX is not alive on c2133616db6d2295f07d43c11164fe278c504560', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+6433302  |  Available  |  Galaxy S10 Plus UKDemo-0196  |  R58M47DBL7Z
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3994188  |  Available  |  Google Pixel 3 AU-052  |  91NX1WF5H
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+4078111  |  Available  |  iPhone 11 Pro US-0260  |  00008030-000430892E80802E
+['Status: ERROR', 'Message: paltielX is not alive on 00008030-000430892E80802E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+4232399  |  Available  |  iPhone 11 Ukdemo-0178  |  00008030-00020D313A9A802E
+['Status: ERROR', 'Message: paltielX is not alive on 00008030-00020D313A9A802E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+4694719  |  Available  |  iPhone X AU-054  |  e2c6e794509adb080a244695d821cf56ec1544e7
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+1935433  |  Available  |  Samsung Galaxy S9 USPOC-0113  |  415531535a563398
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3994503  |  Available  |  Samsung Galaxy Tab S4 AU-051  |  ce11182bcd740ce51c7e
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+2093463  |  Available  |  iPhone 8 Plus UKDemo-0070  |  41ac5ec24eac2a7b7ff15ddb16564e55440c4196
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+6422914  |  Available  |  Samsung Galaxy S8 AU0045_Setup pending  |  9889d63548465a3338
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+8427290  |  Available  |  iPad Air 2 AU-059  |  37af3d3e1fe556df96baaedb965f2ce0eae497b8
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+4232372  |  Available  |  iPhone 11 Ukdemo-0180  |  00008030-000A44960EFA802E
+['Status: ERROR', 'Message: paltielX is not alive on 00008030-000A44960EFA802E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+3680328  |  Available  |  iPhone 11 DE0022  |  00008030-000E5D3E1185802E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+6257014  |  Available  |  Samsung Galaxy S10 Plus UKDemo-0194  |  R58M46A7R2Y
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3455473  |  Available  |  iPad Pro (12.9-inch) (5th generation) Ukdemo-0134  |  00008103-0016401601EA001E
+['Status: ERROR', 'Message: paltielX is not alive on 00008103-0016401601EA001E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+4840726  |  Available  |  iPhone 13 Pro US-0273  |  00008110-000554E634FA801E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+6493634  |  Available  |  Samsung Galaxy S7 UKDemo-0198  |  98867838454c503346
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+1881879  |  Available  |  iPhone XS Max US-085  |  00008020-000D1D610A61002E
+['Error Message: Got URL Exception with domain: NSURLErrorDomain, description: The request timed out., and code: -1001']
+================================================
+8815770  |  Available  |  iPhone 11 Pro DE0088  |  00008030-000435882ED0802E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+7677685  |  Available  |  Samsung Galaxy note 10plus US-0304  |  RF8M82E3CMN
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+8099294  |  Available  |  iPad Air AU-058  |  17ef201b2d97e8d445caec6a43e253dc1e861812
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+4557006  |  Available  |  iPhone XS UKDemo-0191  |  00008020-0018752E14D8003A
+['Error Message: Got URL Exception with domain: NSURLErrorDomain, description: The request timed out., and code: -1001']
+================================================
+5586432  |  Available  |  Xiaomi Redmi Note 9 Pro Sgdemo-0082  |  63fa3537
+['Error Message: java.io.IOException: No internet connection']
+================================================
+6511225  |  Available  |  OnePlus 8T US-0290  |  821504a5
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3457576  |  Available  |  Samsung Galaxy S20 UKDemo-0144  |  RF8N61EMA5X
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+4439083  |  Available  |  iPhone 12 mini UKDemo-0189  |  00008101-000868981E90001E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+9178237  |  Available  |  Samsung Galaxy S8 DE0089  |  9889db324b5546594c
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+1452834  |  Available  |  IPhone 7 US0084  |  3cf62fb35d303b19b98d2b94e7ee06f582d2cf6a
+['Status: ERROR', 'Message: paltielX is not alive on 3cf62fb35d303b19b98d2b94e7ee06f582d2cf6a', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+6493644  |  Available  |  iPad 5th Generation UKDemo-0197  |  ecf5c5b1467659fb15f76dafb7b4476003feaff0
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+4232369  |  Available  |  iPhone UKdemo-0177  |  00008030-000E351C0E9A802E
+['Status: ERROR', 'Message: paltielX is not alive on 00008030-000E351C0E9A802E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+1793727  |  Available  |  Samsung Galaxy S10 Plus US-095  |  R58M32AB82T
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3488143  |  Available  |  Samsung Galaxy S10 Lite UKDemo-0149_moved  |  RF8N21WCCHZ
+['Error Message: java.io.IOException: No internet connection']
+================================================
+3457584  |  Available  |  iPad Pro (12.9-inch) 4th gen UKDemo-0146  |  00008027-001A782E3E05802E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+1452797  |  Available  |  LG G7 ThinQ US0115  |  LMG710ULM9756ad63
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+2190065  |  Available  |  Xiaomi Mi 11 DE0036  |  b4e595d4
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+7677626  |  Available  |  Samsung Galaxy S22 plus US-0308  |  RFCT31CK96T
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3119734  |  Available  |  Samsung Galaxy Tab A US-0173  |  5200691852e745f5
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+2396678  |  Available  |  iPhone XS US-0149  |  00008020-00141D310E78002E
+['Error Message: Got URL Exception with domain: NSURLErrorDomain, description: The Internet connection appears to be offline., and code: -1009']
+================================================
+6934724  |  Available  |  iPhone 11 Pro US-0297  |  00008030-000665AC3612802E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+3452705  |  Available  |  Xiaomi Mi 11 SGDemo-0079  |  4a982f72
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+4737151  |  Available  |  iPad Pro (9.7-inch) US-0272  |  601ea9f96e105669b7b36c804ce591bb4fd360cd
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+3545232  |  Available  |  Samsung Galaxy S10 Plus UKDemo-0166  |  R58M856FLAJ
+['Error Message: java.net.SocketTimeoutException: SSL handshake timed out']
+================================================
+2736809  |  Available  |  Samsung S20 Ultra UKDemo-0094_Moved  |  R3CN40BYDEE
+['Error Message: java.io.IOException: No internet connection']
+================================================
+5774736  |  Available  |  Google Pixel 4a SGDemo-0087  |  0C221JECB05734
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+1937530  |  Available  |  Whats App Device UKDemo-0076  |  00008020-0018099C3E03002E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+2255228  |  Available  |  Samsung Galaxy S8 AD0016-CloudOps-WhatsApp Device  |  ce0617161413473f01
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+5728530  |  Available  |  iPad Air (4th generation) DE0071  |  00008101-00110D422E04001E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+3749595  |  Available  |  iPhone XS SGDemo-0100  |  00008020-000921E41402003A
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+2266660  |  Available  |  Amazon Kindle Fire 7 (9th gen) US-0121  |  GCC0X808046607GE
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3080449  |  Available  |  iPhone 11 Pro US-0186  |  00008030-001111292191802E
+['Error Message: Got URL Exception with domain: NSURLErrorDomain, description: The request timed out., and code: -1001']
+================================================
+1882185  |  Available  |  Samsung Galaxy S9 US-0117_setup pending  |  4746544142563098
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3527360  |  Available  |   Samsung Galaxy S20 Plus 5G UKDemo-0156  |  R5CN20Y9HNF
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+4787432  |  Available  |  iPhone 8 AU-055  |  d1e6ba7bcfea5749e251f68019f899db350a33b3
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+2352664  |  Available  |  iPhone 7 UKDemo-0082  |  ed9f4c942e18b0c7aa2ffee67c724f58bcebe89f
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+3527345  |  Available  |   Samsung Galaxy S20 UKDemo-0158  |  RF8N61EM06Z
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3455470  |  Available  |  iPhone 13 Pro Ukdemo-0143  |  00008110-001130203E8B801E
+['Status: ERROR', 'Message: paltielX is not alive on 00008110-001130203E8B801E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+6511260  |  Available  |  Samsung Tab A7 US-0289  |  R9WNA1ADX7J
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3080439  |  Available  |  iPhone SE US-0185  |  00008030-000644A0019B802E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+2760532  |  Available  |  Samsung Galaxy Fold 5G UKDemo-0098  |  R3CMA001D4Z
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+4247243  |  Available  |  iPhone 11 Pro UKDemo-0184  |  00008030-001161EA0AF0802E
+['Error Message: Got URL Exception with domain: NSURLErrorDomain, description: The request timed out., and code: -1001']
+================================================
+2909238  |  Available  |  Google Pixel 5 UKDemo-102  |  0B271FDD4006MS
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+4401526  |  Available  |  iPhone SE (2nd generation) UKDemo-089  |  00008030-0009251E2E99802E
+['Status: ERROR', 'Message: paltielX is not alive on 00008030-0009251E2E99802E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+4231763  |  Available  |  iPhone 8 Plus US-0250  |  704b25febf90dc04b61af071cf29ce8c2a88e15e
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+4343882  |  Available  |  iPhone 8 Plus US-0265  |  5bea37d32a5b17710ab300163646a8049f6e31f6
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+4073258  |  Available  |  Samsung Galaxy A51 US-0240  |  R58N41XS87R
+['Error Message: java.io.IOException: No internet connection']
+================================================
+1033412  |  Available  |  iPad Pro (11-inch) AU-002  |  00008027-000419893687002E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+4336547  |  Available  |  iPhone XS Max US-0264  |  00008020-001565841A82002E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+3749577  |  Available  |  iPad 7th generation SGDemo-0101  |  124055a740733be7369578291e906c994c54bf8f
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+3816387  |  Available  |  Samsung S9 plus US-0228  |  384b324b53413098
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+6075626  |  Available  |  iPhone 11 DE0080_moved  |  00008030-000A35690ADA402E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+9206931  |  Available  |  OnePlus NE2213  |  f83ad425
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+1886388  |  Available  |  LG Aristo 3 US-0126  |  LMX220c7b16e55
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+1452803  |  Available  |  Samsung NOTE 8 US0118  |  988b5c474a304e334b30
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+2214987  |  Available  |  Samsung Galaxy S21 Ultra 5G SGDemo-0018  |  R5CNC1DGMFK
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3680354  |  Available  |  iPhone Xs DE0043_moved to adib  |  00008020-001E7C822E38002E
+['Status: ERROR', 'Message: paltielX is not alive on 00008020-001E7C822E38002E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+4840741  |  Available  |  iPhone 11 Pro Max US-0275  |  00008030-001830801A21802E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+1100602  |  Available  |  Samsung Galaxy S10e USPOC-0111  |  R58M54S7TET
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+1610236  |  Available  |  iPhone 7 US-053  |  0a72d26a722e11e0b0149cfacddf205502adb9ac
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+3816378  |  Available  |  Google Pixel 4a US-0227  |  08141JEC207374
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+6091800  |  Available  |  Oppo Find X3 Pro 5G SGDemo-0140_setup_Pending  |  5798ce65
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+4073247  |  Available  |  iPad (8th generation) US-0254  |  00008020-00195D6C0204402E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+5774751  |  Available  |  Samsung Galaxy Tab S6 Lite SGDemo-0088  |  R52T403XMMP
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3080442  |  Available  |  iPhone XR US-0163  |  00008020-00015CD1226A002E
+['Error Message: Got URL Exception with domain: NSURLErrorDomain, description: The request timed out., and code: -1001']
+================================================
+1935456  |  Available  |  iPad air 2 US-0047  |  f56bfc6690e6bea8b85d545cdeafae2e45ce2156
+['Error Message: Got URL Exception with domain: NSURLErrorDomain, description: The request timed out., and code: -1001']
+================================================
+1939266  |  Available  |  iPhone 8 AU0041_moved  |  5b299e51fcbfa9c7e9ed82338c21700fef62ee05
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+2214595  |  Available  |  iPhone 8 US-0143  |  fda9ce67abc5b45aff4127084228d3c57b4572f0
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+6036543  |  Available  |  iPhone 14 Plus UKDemo-0193  |  00008110-0014619926D1401E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+4150967  |  Available  |  iPhone 11 UKDemo-0175  |  00008030-0002359E1101802E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+1846905  |  Available  |  iPhone XR US-087  |  00008020-001C61863CE9002E
+['Status: ERROR', 'Message: paltielX is not alive on 00008020-001C61863CE9002E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+1054691  |  Available  |  iPad mini 4 IO-US 08  |  57c2a4194bf4d0a3b58117c6496ad2af1682a74a
+['Status: ERROR', 'Message: paltielX is not alive on 57c2a4194bf4d0a3b58117c6496ad2af1682a74a', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+1452852  |  Available  |  IPhone 7 Plus US0089  |  63c4e5f074c4959d5c35ab01940ad498fc74b7d1
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+3807166  |  Available  |  iPhone XR DE0052  |  00008020-0006643A0CDA002E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+6058936  |  Available  |  iPhone 11 Pro Max US-0242  |  00008030-001D05690208802E
+['Status: ERROR', 'Message: paltielX is not alive on 00008030-001D05690208802E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+1350119  |  Available  |  Samsung Galaxy S8 Plus SGDemo-0044  |  ce051715a875d53301
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+2086610  |  Available  |  Samsung Galaxy S20 UKDemo-0074  |  RF8N72912JB
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+6036556  |  Available  |  iPhone 11 Pro SGDemo-0127  |  00008030-0011554A2638802E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+2046992  |  Available  |  iPad mini 4 SGDemo-0062  |  6d7b4f5b261d281cd9a33686f86545eeaf22794f
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+4247240  |  Available  |  iPhone 11 Pro UKDemo-0185  |  00008030-001E79201152802E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+1788310  |  Available  |  IPhone X USPOC-0119  |  58480c42c1d9f42964e0a9a138662733d9357885
+['Status: ERROR', 'Message: paltielX is not alive on 58480c42c1d9f42964e0a9a138662733d9357885', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+5728359  |  Available  |  Samsung Galaxy Tab A8 DE0073  |  R9YT407G7SY
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3527375  |  Available  |   Samsung Galaxy S7 UKDemo-0153  |  ce0117119371846f0c
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3527332  |  Available  |  Samsung Galaxy Tab S6 Lite UKDemo-0154  |  R52N6079C5Z
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3253123  |  Available  |  Google Pixel 3 US-0206  |  93QX1Y75C
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3527475  |  Available  |  LG K20 UKDemo-0162  |  LMX120GMMRKFSOORHM
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+1112429  |  Available  |  Samsung S10 Plus UD006 - Accessibility  |  R58M43FRFCL
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+4232392  |  Available  |  iPhone 12 UKDemo-0181  |  00008101-001415213C50001E
+['Error Message: Got URL Exception with domain: NSURLErrorDomain, description: The request timed out., and code: -1001']
+================================================
+3303183  |  Available  |  iPad (8th generation) SGDemo-0073  |  00008020-000678C20280402E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+7127577  |  Available  |  iPhone X DE0082  |  7d265f7d4ea045840c34ed474fc84f5923ca20f2
+['Status: ERROR', 'Message: paltielX is not alive on 7d265f7d4ea045840c34ed474fc84f5923ca20f2', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+5825010  |  Available  |  IPhone XS SGDemo-0091  |  00008020-001C0D0A26D2002E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+7677716  |  Available  |  Google Pixel 4 XL US-0307  |  9C021FFBA001Z7
+['Error Message: java.io.IOException: No internet connection']
+================================================
+3545228  |  Available  |  iPhone XS Max UKDemo-0165  |  00008020-000C696121D0003A
+['Error Message: Got URL Exception with domain: NSURLErrorDomain, description: The request timed out., and code: -1001']
+================================================
+727896  |  Available  |  Galaxy S7 UKDemo-0053  |  ce0117119b586c9c0c
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3427825  |  Available  |  Samsung Galaxy S10 Plus UKDemo-0121  |  R58M476P2EA
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3217843  |  Available  |  iPad Air (4th generation) US-0202  |  00008101-000C50883630001E
+['Status: ERROR', 'Message: paltielX is not alive on 00008101-000C50883630001E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+3455365  |  Available  |  iPhone 11 Pro Max Ukdemo-0128  |  00008030-0016255A3C3A802E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+2371736  |  Available  |  Samsung Galaxy S21 Plus SGDemo-0033  |  RFCR20QSP0Y
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+7677696  |  Available  |  Samsung Galaxy S20 Ultra 5G US-0303  |  R5CN403PMZR
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3527391  |  Available  |  Samsung Galaxy S9 Plus UKDemo-0152  |  218480490f017ece
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+2214973  |  Available  |  Xiaomi MI 9 SGDemo-0016  |  963f8d0
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+4029812  |  Available  |  Samsung Galaxy S21 Ultra 5G DE0058  |  R5CR111SB4X
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3807181  |  Available  |  iPad mini (5th generation) DE0050  |  00008020-000A04E81103002E
+['Status: ERROR', 'Message: paltielX is not alive on 00008020-000A04E81103002E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+102465  |  Available  |  LG G6 US-030  |  LGUS997569cab50
+["Error Message: javax.net.ssl.SSLHandshakeException: Unacceptable certificate: CN=R3, O=Let's Encrypt, C=US"]
+================================================
+3455476  |  Available  |  iPhone SE Ukdemo-0136  |  bb04c8663d708e3eec1b98d243afa89385f4b2dd
+['Status: ERROR', 'Message: paltielX is not alive on bb04c8663d708e3eec1b98d243afa89385f4b2dd', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+5148510  |  Available  |  iPad Pro (10.5-inch) DE0067  |  1a5eb0fd74af9b75d86baf9c1704175293f8596a
+['Status: ERROR', 'Message: paltielX is not alive on 1a5eb0fd74af9b75d86baf9c1704175293f8596a', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+4232379  |  Available  |  iPhone 11 pro Ukdemo-0179  |  00008030-001C15420142802E
+['Status: ERROR', 'Message: paltielX is not alive on 00008030-001C15420142802E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+4331725  |  Available  |  Huawei P40 Lite UKDemo-0185  |  EPHUT20917002509
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+7677646  |  Available  |  iPhone 13 US-0305  |  00008110-000A34D00C00401E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+2371798  |  Available  |  Samsung Tab S3 SGDemo-0063  |  26a2c02f
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+4247237  |  Available  |  iPhone 11 Pro UK Demo-0183  |  00008030-001A1C3002E8802E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+2008684  |  Available  |  Xiaomi Mi A2 UKDemo-0077  |  2528457
+['Error Message: java.io.IOException: No internet connection']
+================================================
+5772660  |  Available  |  Huawei P30 Pro SGDemo-0086  |  DUM0219724008154
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3981654  |  Available  |  iPad Pro (11 inch) (3rd generation) US-0236  |  00008103-0019245226D1001E
+['Status: ERROR', 'Message: paltielX is not alive on 00008103-0019245226D1001E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+2378231  |  Available  |  Huawei P10 DE0015_moved  |  6PQ0218314001811
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3105408  |  Available  |  Samsung Galaxy S9 Plus US-0183  |  3159594357533098
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+1793745  |  Available  |  IPhone 11 US-073  |  00008030-001E1DE23CD0802E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+5634495  |  Available  |  Samsung Galaxy Tab S4 SGDemo-0084  |  ce051825cc6c6ced0d7e
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+4439106  |  Available  |  iPhone 12 Mini UKDemo-0187  |  00008101-000A30992686001E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+3488317  |  Available  |  HUAWEI MatePad 11 SGDemo-0081  |  5VLBB21910203276
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3427799  |  Available  |  Galaxy S20 Ultra 5G UKDemo-0119  |  R5CN312BJYD
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+4557083  |  Available  |  iPhone 11 pro UKDemo-0190_moved  |  00008030-000248892E2A802E
+['Status: ERROR', 'Message: paltielX is not alive on 00008030-000248892E2A802E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+1452861  |  Available  |  iPad Pro (10.5-inch)  US0121  |  d46d32e6b2833f5957402fe633f28c7156e48095
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+6937535  |  Available  |  Galaxy Note 9 US-0298  |  2525c87e1d057ece
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+2317122  |  Available  |  HUAWEI P20 NEW US-0031  |  BPN7N18421007400
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+2074142  |  Available  |  Xiaomi Redmi Note 6 Pro US-0139  |  97fa7c9
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3824568  |  Available  |  iPhone Xs DE0057  |  00008020-001538592689002E
+['Status: ERROR', 'Message: paltielX is not alive on 00008020-001538592689002E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+4002810  |  Available  |  iPhone SE AU0034  |  ff91a75e6a63153557a1744a3455d64d51680da5
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+3981664  |  Available  |  Samsung Galaxy Tab S5e US-0235  |  R52M80EPRBH
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+2868210  |  Available  |  iPhone 12 mini UKDemo-0113  |  00008101-000E204C26E0001E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+3455363  |  Available  |  iPhone XS Ukdemo-0131  |  00008020-000878E1262A002E
+['Status: ERROR', 'Message: paltielX is not alive on 00008020-000878E1262A002E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+3334755  |  Available  |  iPad Pro (11-inch) (2nd generation) UKDemo-0117  |  00008027-000145280A78402E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+727835  |  Available  |  iPhone 7 UKDemo-0063  |  caffe870e173198b86a19da399ad3c3eba9a0468
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+3453117  |  Available  |  Samsung Galaxy Note10 UKDemo-0126  |  R58M81VZ8NJ
+['Error Message: java.net.SocketTimeoutException: SSL handshake timed out']
+================================================
+6422918  |  Available  |  Google Pixel 2 AU0046  |  FA82M1A01648
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3680309  |  Available  |  iPhone XR DE0021  |  00008020-001C4DAA11D3002E
+['Status: ERROR', 'Message: paltielX is not alive on 00008020-001C4DAA11D3002E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+802053  |  Available  |  Xiaomi Mi A2 SGDemo-0031  |  45c1185
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+2151832  |  Available  |  iPhone 7 AD0011  |  971b085f2dfc8653111a802e8108f97993f55213
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+6075608  |  Available  |  Samsung Galaxy note 9 DE0079  |  25bd25509b1c7ece
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+2368860  |  Available  |  Google Pixel 4 UKDemo-0084  |  9A261FFAZ009MM
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3087278  |  Available  |  Samsung Galaxy S10 Plus US-0179  |  R58M38BXR8N
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3527500  |  Available  |  HTC Nexus 9 UKDemo-0160  |  HT4ANJT00666
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3080446  |  Available  |  iPhone 11 US-0178  |  00008030-001E51A20213802E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+2197699  |  Available  |  Samsung Galaxy Tab S7 SGDemo-0037  |  R52R203M2QR
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+907373  |  Available  |  Xiaomi Mi A1 IO-US 02  |  0183d9629805
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3777714  |  Available  |  Xiaomi Redmi 6 SGDemo-0110  |  d0429a1b7d24
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3527370  |  Available  |  Samsung Galaxy S20 Plus 5G UKDemo-0157  |  R5CN2131QRE
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+1867621  |  Available  |  LG V50S ThinQ 5G UKDemo-0072  |  LMV500Ndf2566f0
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+6926484  |  Available  |  iPad Mini 4 AU-056  |  1c4293bdde2074985cc082d1e83b2fcd6aae182a
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+4637329  |  Available  |  Xiaomi 10 Ultra SGDemo-0119  |  6b8113cb
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+1846926  |  Available  |  Samsung Galaxy S10 US-088  |  RF8M3344QZP
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3217851  |  Available  |  iPad Air (4th generation) US-0204  |  00008101-001D39290841401E
+['Status: ERROR', 'Message: paltielX is not alive on 00008101-001D39290841401E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+2367425  |  Available  |  iPhone X UKDemo-0091  |  d28524a3f8ed745bc0de0f3582ce6b99fbcb5c9f
+['Status: ERROR', 'Message: paltielX is not alive on d28524a3f8ed745bc0de0f3582ce6b99fbcb5c9f', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+7189396  |  Available  |  iPhone 8 DE0085  |  808d8a2f7252838ef84b2b1515da0e5475548f79
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+6058942  |  Available  |  iPhone 8 US-0241  |  c64d58e5cb9f8768f1adf7c8df641fbe12b60987
+['Status: ERROR', 'Message: paltielX is not alive on c64d58e5cb9f8768f1adf7c8df641fbe12b60987', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+1951652  |  Available  |  Samsung Galaxy S8 AU0032_Setup pending  |  ce021712a4a5d70b05
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+1100615  |  Available  |  iPhone 11 USPOC-0124  |  00008030-001A38E021FA802E
+['Status: ERROR', 'Message: paltielX is not alive on 00008030-001A38E021FA802E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+4916013  |  Available  |  iPad (8th generation) US-0276  |  00008020-0005718922C1402E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+5  |  Available  |  iPhone 7 US-0005  |  56793ec400fe2121df8a6341591cbd25b7c26c70
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+2386285  |  Available  |  iPhone 11 Pro US-0120  |  00008030-001234DA14C0802E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+2367416  |  Available  |  iPhone 11 UKDemo-0089  |  00008030-000439C93A01802E
+['Status: ERROR', 'Message: paltielX is not alive on 00008030-000439C93A01802E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+2079202  |  Available  |  iPad (6th generation) US0122  |  34ef7f2ce95bb6a76b003c65567f7ca4fb3dbb89
+['Status: ERROR', 'Message: paltielX is not alive on 34ef7f2ce95bb6a76b003c65567f7ca4fb3dbb89', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+7570780  |  Available  |  Google Pixel 6 Pro UKDemo-0201  |  23101FDEE004AN
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+2901854  |  Available  |  iPhone XS Max US-0154  |  00008020-001C2D201A90003A
+['Status: ERROR', 'Message: paltielX is not alive on 00008020-001C2D201A90003A', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+1100737  |  Available  |  Apple iPhone XR USPOC-0116  |  00008020-0011251C0A9A002E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+3569883  |  Available  |  Samsung Galaxy S10 AU0049  |  RF8M807544Y
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+1452898  |  Available  |  IPhone 7 US0087 (ATB-0003)  |  2ca8b730b6dd931dbf5ca19f960e99bab3566622
+['Status: ERROR', 'Message: paltielX is not alive on 2ca8b730b6dd931dbf5ca19f960e99bab3566622', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+3096169  |  Available  |  iPhone X US-0170  |  59d59885e23abfde01e489394165c0ba3b106ad5
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+1452849  |  Available  |  IPhone 6s US0090_sent for repair  |  191a715903db98a51c4d227d5321827a8bb66af3
+['Status: ERROR', 'Message: paltielX is not alive on 191a715903db98a51c4d227d5321827a8bb66af3', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+3085720  |  Available  |  iPhone XS Max US-0177  |  00008020-001A28EA1488003A
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+1033463  |  Available  |  iPhone 11 AU-001_setup pending  |  00008030-000471800A3A802E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+3286565  |  Available  |  iPhone XS US-0213  |  00008020-001839923CC2002E
+['Status: ERROR', 'Message: paltielX is not alive on 00008020-001839923CC2002E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+3278677  |  Available  |  iPhone 12 Pro Max US-0210  |  00008101-001E41E90E04001E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+3527400  |  Available  |  iPhone 11 Pro UKDemo-0150  |  00008030-001438802669802E
+['Status: ERROR', 'Message: paltielX is not alive on 00008030-001438802669802E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+7677750  |  Available  |  iPhone SE (3rd generation) US-0302  |  00008110-001A0D862130401E
+['Status: ERROR', 'Message: paltielX is not alive on 00008110-001A0D862130401E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+6036568  |  Available  |  Huawei P40 Pro 5G SGDemo-0131_Setup_Pending  |  K5J0220310005877
+['Status: ERROR', 'Message: Timeout while accessing HTTP invoker remote service at [https://sgregion.experitest.com:443/agent-727858/remoting/AndroidServices]; nested exception is java.net.SocketTimeoutException: Read timed out', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+3421488  |  Available  |  iPhone 6s Plus DE0038  |  c9909e5b3b96aaddbce0a69072c3287d5537333b
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+3108430  |  Available  |  iPhone 8 US-0175  |  2b5140fb4d4e7a7373bcac63aef13094148cccf0
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+6075603  |  Available  |  OnePlus 6 DE0078  |  10548b17
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3096298  |  Available  |  iPad (7th Generation) US-0187  |  2f238fcaf882eb5f1d51cccfa51eeb752d226a42
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+3085717  |  Available  |  iPhone 8 Plus US-0180  |  962369f487f16929aacc84e3026884836d034729
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+2039183  |  Available  |  LG Q6 DE0006  |  LGM7004f1580d2
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+5776084  |  Available  |  Samsung Galaxy S21 US-0285  |  R5CR82J2QFH
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+2352667  |  Available  |  iPad (6thGen) UKDemo-0081  |  a9a17217dcb9457b136036316a6aac4841c169d3
+['Status: ERROR', 'Message: paltielX is not alive on a9a17217dcb9457b136036316a6aac4841c169d3', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+3421398  |  Available  |  iPhone 13 Mini UKDemo-0106  |  00008110-001C38363AFA801E
+['Status: ERROR', 'Message: paltielX is not alive on 00008110-001C38363AFA801E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+3455353  |  Available  |  iPhone XS Ukdemo-0132  |  00008020-001D55C41AF9002E
+['Status: ERROR', 'Message: paltielX is not alive on 00008020-001D55C41AF9002E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+2106192  |  Available  |  iPad 6th gen ukdemo-0087  |  2fbac4321d2212aedebe1c66b9d64f2b1ddbb769
+['Status: ERROR', 'Message: paltielX is not alive on 2fbac4321d2212aedebe1c66b9d64f2b1ddbb769', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+4141572  |  Available  |  Samsung Galaxy S21 Ultra 5G DE0066  |  R5CNC0FR92F
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+4233346  |  Available  |  iPhone 12 US-0259  |  00008101-000D082938A1401E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+2025017  |  Available  |  Samsung Galaxy S9 US0095  |  5a544b5034573398
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+5728256  |  Available  |  Samsung Galaxy S21 Ultra 5G DE0077  |  R5CRB0GX2RB
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+4437990  |  Available  |  Google Pixel 2 US-0108  |  HT8291A00949
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+2868178  |  Available  |  iPhone 12 mini UKDemo-0110  |  00008101-00015C521450001E
+['Status: ERROR', 'Message: paltielX is not alive on 00008101-00015C521450001E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+3801937  |  Available  |  IPhone 12 Pro Max UKDemo-0122_moved   |  00008101-00120D0C1485001E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+4381386  |  Available  |  iPhone XR US-0266  |  00008020-000C45C01403002E
+['Status: ERROR', 'Message: paltielX is not alive on 00008020-000C45C01403002E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+4233703  |  Available  |  iPhone 7 US-0261  |  c37f632d46969e633e173c1c478e9a07a01d6e71
+['Status: ERROR', 'Message: paltielX is not alive on c37f632d46969e633e173c1c478e9a07a01d6e71', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+5728357  |  Available  |  iPhone SE 2020 DE0072  |  00008030-001965813442402E
+['Status: ERROR', 'Message: paltielX is not alive on 00008030-001965813442402E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+3423828  |  Available  |  iPhone 11 Pro UKDemo-0108  |  00008030-001E51523C0A802E
+['Status: ERROR', 'Message: paltielX is not alive on 00008030-001E51523C0A802E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+3455460  |  Available  |  iPhone XS Max Ukdemo-0137  |  00008020-000D743E0A52002E
+['Status: ERROR', 'Message: paltielX is not alive on 00008020-000D743E0A52002E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+3458759  |  Available  |  iPhone XS UKDemo-0147  |  00008020-000114CC3E3A002E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+3453122  |  Available  |  Google Pixel 3 UKDemo-0124  |  8B3X12VHB
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3217836  |  Available  |  iPad Air (4th generation) US-0205  |  00008101-001449800E28001E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+3527403  |  Available  |  iPhone XS Max  UKDemo-0151  |  00008020-00166C563C88003A
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+7677743  |  Available  |  iPhone 13 mini US-0306  |  00008110-000824D80C31801E
+['Status: ERROR', 'Message: paltielX is not alive on 00008110-000824D80C31801E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+3532547  |  Available  |  iPhone 8 DE0040  |  5c498075b13b095003ae9c1ee036b36e30b33a56
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+5824956  |  Available  |  iPad (7th generation) SGDemo-0102  |  2ef2ad06938945d50cd1f81d8c3983a2d61d57db
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+4331570  |  Available  |  IPHONE 11 UKDemo-0186  |  00008030-001E582E113A802E
+['Status: ERROR', 'Message: paltielX is not alive on 00008030-001E582E113A802E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+1875548  |  Available  |  iPad (7th generation) US-090  |  af4048227396b952083a825efa2796e62e03984d
+['Status: ERROR', 'Message: paltielX is not alive on af4048227396b952083a825efa2796e62e03984d', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+3286536  |  Available  |  iPhone 12 US-0222  |  00008101-000105991404001E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+1880655  |  Available  |  iPhone XR US-0108  |  00008020-0005656621A2002E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+1112458  |  Available  |  iPhone XS Max UD010  |  00008020-000C543E3E8A002E
+['Status: ERROR', 'Message: paltielX is not alive on 00008020-000C543E3E8A002E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+3217839  |  Available  |  iPad Air (4th generation) US-0200  |  00008101-000415C13EE0001E
+['Status: ERROR', 'Message: paltielX is not alive on 00008101-000415C13EE0001E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+5148514  |  Available  |  iPhone SE DE0068  |  670598a1c49f4034f984a040bc6d49b72d35b13d
+['Status: ERROR', 'Message: paltielX is not alive on 670598a1c49f4034f984a040bc6d49b72d35b13d', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+1880646  |  Available  |  iPad (6th generation) US-0122  |  ad0e395a69cf5efb5bfab8069d69d5d30302a6d2
+['Status: ERROR', 'Message: paltielX is not alive on ad0e395a69cf5efb5bfab8069d69d5d30302a6d2', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+3303188  |  Available  |  iPad Pro (11-inch) (2nd generation) SGDemo-0076  |  00008027-000E25D802E2402E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+6511420  |  Available  |  iPhone 11 Pro US-0293  |  00008030-001E5D1A0298802E
+['Status: ERROR', 'Message: paltielX is not alive on 00008030-001E5D1A0298802E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+3108427  |  Available  |  iPhone 7 US-0174  |  4afe1866a95abc441a4bb167674a3d5db7e7b18c
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+4840734  |  Available  |  iPhone 11 Pro US-0277  |  00008030-0014282A3430802E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+5825048  |  Available  |  iPad Air (3rd generation) SGDemo-0101  |  00008020-0011258C0AD8003A
+['Status: ERROR', 'Message: paltielX is not alive on 00008020-0011258C0AD8003A', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+2339853  |  Available  |  iPhone x UKDemo-0058  |  771cd1c72559ce0951d30a9bc7754c85626b8347
+['Status: ERROR', 'Message: paltielX is not alive on 771cd1c72559ce0951d30a9bc7754c85626b8347', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+4098052  |  Available  |  Samsung Galaxy Note20 US-0245  |  RFCN70JF19J
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+4559063  |  Available  |  Samsung Galaxy S20 5G US-0270  |  RFCN30TM82L
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+4144696  |  Available  |  iPhone uk demo-0173  |  00008030-001A68340C39802E
+['Status: ERROR', 'Message: paltielX is not alive on 00008030-001A68340C39802E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+3108434  |  Available  |  iPhone SE US-0166  |  1bca972f43bc35399065e21f35be888fd218c418
+['Status: ERROR', 'Message: paltielX is not alive on 1bca972f43bc35399065e21f35be888fd218c418', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+3824563  |  Available  |  Google Pixel 6 DE0056  |  21081FDF6004UB
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+4133233  |  Available  |  Xiaomi Redmi Note 8 Pro DE0061  |  95if5dy5nvqcnvnj
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3455464  |  Available  |  iPad Pro (11 inch) (3rd generation) Ukdemo-0133  |  00008103-001D24490ED9001E
+['Status: ERROR', 'Message: paltielX is not alive on 00008103-001D24490ED9001E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+3423831  |  Available  |  iPad 5th generation UKDemo-0107  |  a6c8bbb65635564affdb4884372f5b862cddfb39
+['Error Message: Got URL Exception with domain: NSURLErrorDomain, description: The request timed out., and code: -1001']
+================================================
+6863001  |  Available  |  iPhone 7 UKDemo-0200  |  e5b1be805dfc50b8f25837da50591b701fd5534c
+['Status: ERROR', 'Message: paltielX is not alive on e5b1be805dfc50b8f25837da50591b701fd5534c', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+2745917  |  Available  |  Huawei Mate 20 Pro (LYA-L09) UKDemo-0097  |  F3R7N18A31002261
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+727898  |  Available  |  Galaxy S8 UKDemo-0050  |  ce0118214032da3605
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+1926611  |  Available  |  iphone 6s UKDEMO-0073 - Accessibility  |  b05e129e2f2bfcbabf1b9471303e232f82c45a05
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+3427772  |  Available  |  Galaxy Note20 Ultra 5G UKDEMO-0118  |  R5CN71FAASM
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3286544  |  Available  |  iPhone XR US-0221  |  00008020-001464810E88003A
+['Status: ERROR', 'Message: paltielX is not alive on 00008020-001464810E88003A', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+2871035  |  Available  |  iPhone 12 mini UKDemo-0112  |  00008101-0019549604B82C3A
+['Error Message: Got URL Exception with domain: NSURLErrorDomain, description: The request timed out., and code: -1001']
+================================================
+4753889  |  Available  |  HTC HTC U Ultra SGDemo-0121  |  FA72V1700370
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+4559050  |  Available  |  iPhone 11 US-0271  |  00008030-001018E1019A802E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+1452809  |  Available  |  Samsung Galaxy S9 plus US-0099  |  324b5730414a3098
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+1104508  |  Available  |  iPhone x SGDemo-0040  |  2365d189babe4cc06a66ad9242fb6ee72ef1b253
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+4073241  |  Available  |  LG Stylo 6 US-0243  |  LMQ730AISOHY85OJQK
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3215749  |  Available  |  Samsung Tab S7 UKDemo-0116  |  R52N908GG4E
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+2025015  |  Available  |  Google Pixel US0113  |  FA75J0300061
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+1880661  |  Available  |  iPad Mini 4 US-0124  |  de65dc139a29e03042f13e3f6a2e3d2af5afcca8
+['Status: ERROR', 'Message: paltielX is not alive on de65dc139a29e03042f13e3f6a2e3d2af5afcca8', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+6041118  |  Available  |  iPhone 11 Pro Max SGDemo-0138  |  00008030-000964683630802E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+6040829  |  Available  |  iPhone 13 Pro Max SGDemo-0135  |  00008110-00020DD83CD2801E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+3749546  |  Available  |  Samsung Galaxy S9 Plus SGDemo-0116  |  3245413537533098
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+4039809  |  Available  |  Amazon Fire HD 8 UKDemo-0171  |  G0W1AR04037200FU
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3452727  |  Available  |  Xiaomi Redmi 6 Pro SGDemo-0080  |  11d3952c0405
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+2868223  |  Available  |  iPhone 12 Mini UKDemo-0111  |  00008101-001235D021E8001E
+['Status: ERROR', 'Message: paltielX is not alive on 00008101-001235D021E8001E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+3453135  |  Available  |  OnePlus 7 Pro UKDemo-0125_setup pending   |  e657ea67
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3527379  |  Available  |  iPhone SE UKDemo-0155  |  037cbf0bd4df419407ead106c64179555c41a1ca
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+3749509  |  Available  |  Samsung Galaxy S8 SGDemo-0111  |  ce0517154cb780370d
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+4439178  |  Available  |  iPhone 12 Mini UKDemo-0188  |  00008101-000209391A02001E
+['Status: ERROR', 'Message: paltielX is not alive on 00008101-000209391A02001E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+2695175  |  Available  |  Microsoft Surface Duo UKDemo-0093  |  001036410167
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3777723  |  Available  |  iPhone 8 Sgdemo-0108  |  2e0bf301874b2e1f5ad20e05c4eefdee9afd2a91
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+6511200  |  Available  |  motorola moto g play 2021 US-0288  |  ZY22BF4XPN
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3215597  |  Available  |  iPhone 11 Pro UKDemo-0115  |  00008030-0006283A0129802E
+['Status: ERROR', 'Message: paltielX is not alive on 00008030-0006283A0129802E', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+1452892  |  Available  |  Google Pixel 2 US0107  |  HT81R1A01868
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+1571360  |  Available  |  iPad Pro (9.7-inch) SGDemo-0046  |  ba0c69b938038ed4db2fda620626256ce6eb84a7
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+3455369  |  Available  |  iPhone 11 Ukdemo-0130  |  00008030-000D44662E61802E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+2218438  |  Available  |  iPhone 12 Pro Max SGDemo-0059  |  00008101-0014395E0111001E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+2218421  |  Available  |  iPad Pro (9.7-inch) SGDemo-0006  |  00008027-001C10C20A3A402E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+1104268  |  Available  |  Samsung Galaxy A8 US-0044  |  52007d1ab44f557d
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+3749580  |  Available  |  iPhone X SGDemo-0102  |  833c2326a11efe45867c5de17b61db88105e01fa
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+3787018  |  Available  |  iPhone 12 mini uk demo-0169   |  00008101-000C788C14E8001E
+['URL: https://digital.ai/', 'Status Code: 200']
+================================================
+6705711  |  Available  |  Google Pixel 4 XL US-0287  |  9A221FFBA001EP
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+2268926  |  Available  |  Samsung Galaxy S10 UD011  |  RF8M332M75X
+['URL: https://digital.ai', 'Status Code: 200']
+================================================
+2376793  |  Available  |  HUAWEI Mate 30 Pro SGDemo-0045  |  Y5U0219C23001486
+['Status: ERROR', 'Message: Timeout while accessing HTTP invoker remote service at [https://sgregion.experitest.com:443/agent-3303113/remoting/AndroidServices]; nested exception is java.net.SocketTimeoutException: Read timed out', 'Code: INTERNAL_SERVER_ERROR']
+================================================
+5807686  |  Available  |  Huawei Nova 9 SGDemo-0090  |  EMH0221B23018219
+['Status: ERROR', 'Message: Timeout while accessing HTTP invoker remote service at [https://sgregion.experitest.com:443/agent-1427789/remoting/AndroidServices]; nested exception is java.net.SocketTimeoutException: Read timed out', 'Code: INTERNAL_SERVER_ERROR']
+================================================

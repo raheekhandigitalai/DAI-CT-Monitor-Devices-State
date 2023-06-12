@@ -1,6 +1,6 @@
 ## Script for understanding Devices State
 
-Digital.ai has developed an API that allow Cloud Admins to perform HTTP request on a Mobile Device (iOS & Android), and get the HTTP response in return. 
+Digital.ai has developed an API that allow Cloud Admins to perform HTTP request on a Mobile Device (_iOS & Android_), and get the HTTP response in return. 
 
 This script was designed to leverage the API to perform a GET request against a Public Website. This allows us to understand if the Device is connected to the Internet or not. When you have a large amount of Mobile Devices, this becomes like a monitoring tool.
 

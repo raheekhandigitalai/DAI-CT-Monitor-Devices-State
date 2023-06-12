@@ -1,0 +1,66 @@
+6322386  |  Offline  |  Google Pixel 3 US-0286_Moved  |  956X201CW
+3458775  |  Offline  |  Samsung S20 Ultra UKDemo-0148_moved  |  R3CN4051AGW
+3995068  |  Offline  |  iPhone X US-0238_moved  |  96aac85338903218c16cb0916cb56b5202d56b49
+3119744  |  Offline  |  Samsung Galaxy S8 Plus US-0167_Faulty  |  988a1c473832484c42
+2507821  |  Offline  |  HTC HTC One_M8 AU-003_Sent_for_repair  |  FA45KWM06396
+1452823  |  Offline  |  HTC U11 Life US0114_FAULTY  |  HT7A71C00177
+8577838  |  Offline  |  Samsung Galaxy S21 Ultra 5G UKDemo-0202_moved  |  R3CR304Z0MB
+6511220  |  Offline  |  Google Pixel 5 US-0291_moved  |  0B121FDD4004YZ
+3530736  |  Offline  |  Huawei P10 DE0010_moved   |  6PQ0218314001804
+3073916  |  Offline  |  Huawei Nexus 6P US-0194_FAULTY  |  84B7N15A28005227
+1452805  |  Offline  |  Google Pixel US-0134_Sent_For_Repair  |  FA6950303414
+3455452  |  Offline  |  Samsung Galaxy S20 Ukdemo-0138_moved   |  RF8N21NB7SN
+1936136  |  Offline  |  iPhone 11 Pro Max US-070_disconnected  |  00008030-001D18C93C50802E
+2396701  |  Offline  |  Samsung Galaxy S10 US-0145_moved  |  RF8MA1Y39MJ
+2664299  |  Offline  |  Google Pixel 2 XL US-0153_send for repair  |  711KPRW0749798
+1881945  |  Offline  |  Samsung S7 US-097_Battery_Bloated  |  0e712ace
+3170514  |  Offline  |  Samsung Galaxy Note 20 US-0199_battery bloated   |  RF8N8102REB
+5824998  |  Offline  |  iPhone XR SGDemo-0094_moved  |  00008020-00111C4E227B002E
+4077602  |  Offline  |  Huawei P20 DE0064_moved  |  UBV0218601004159
+3278673  |  Offline  |  Samsung Galaxy S20 Plus US-0209_moved  |  R5CN2009VQJ
+3105413  |  Offline  |  Samsung Galaxy S9 US-0162_moved_to_verizon  |  4a52564450573398
+935689  |  Offline  |  Google Pixel 3 IO-US 019_send for repair  |  8A8X0N3GP
+2074148  |  Offline  |  Xiaomi Redmi 7 US-0140_Sent_For_Repair  |  cbac9603
+2396770  |  Offline  |  Samsung Galaxy S10 Plus US-0150_Faulty  |  R58M38BXVXM
+6040756  |  Offline  |  Samsung Galaxy S21 5G SGDemo-0133_moved  |  R5CRB0HQL7B
+3367904  |  Offline  |  Google Pixel 3 AU0047_faulty   |  8A3X0KXV5
+3749573  |  Offline  |  Samsung Galaxy Tab A7 SGDemo-0103_sent for repair  |  R9WNB0RH2MJ
+6036564  |  Offline  |  Samsung Galaxy S20 Plus SGDemo-0130_moved  |  R58N33WAKGE
+3217833  |  Offline  |  Samsung Galaxy Tab S7 US-0203_Moved  |  R52NB0MTXWY
+4077987  |  Offline  |  Google Pixel 3 XL US-0249_moved_to_verizon  |  95BY1A13B
+4840738  |  Offline  |  iPhone XR US-0279_moved  |  00008020-001659561E78003A
+5824965  |  Offline  |  Samsung Galaxy Note 9 SGDemo-0098_moved  |  280dccac32217ece
+4712584  |  Offline  |  Samsung S10 Plus sgdemo-0120_moved  |  R58M35TAZ8N
+6091894  |  Offline  |  iPhone XR Sgdemo-0139_moved  |  00008020-001944393645002E
+6040784  |  Offline  |  Vivo X60 Pro SGDemo-0134_sent for repair  |  3055759968007PU
+4840743  |  Offline  |  iPhone 8 US-0278_faulty  |  9aa62f961a56ecdac35bded989529f5bf6af3fc7
+1152218  |  Offline  |  IPod Touch UD013_Sent_For_Repair  |  72aa0e196f0163f6b7dad70ce89d19656f4debc7
+1935451  |  Offline  |  iPhone 8 US-0026_Moved  |  18e3374f8a1ae89b3d9a188ef11cc211ea1c3812
+3286562  |  Offline  |  iPhone 11 Pro US-0214_disconnected  |  00008030-000E655A0160802E
+3520373  |  Offline  |  Samsung Galaxy Note 10 US-0220_moved  |  R58M91HEV1A
+2178161  |  Offline  |  iPhone XS Max SGDemo-0068_moved  |  00008020-000E0D962678003A
+6390869  |  Offline  |  OnePlus 9 Pro 5G SGDemo-0141_moved  |  c57c3518
+2303888  |  Offline  |  Nokia 3.1 SGDemo-0071_moved  |  ES2BB80615000646
+1242972  |  Offline  |  Samsung J7 SGDemo-0036  |  d11b966d
+6937591  |  Offline  |  iPhone XS US-0300_moved   |  00008020-000270901478003A
+2181097  |  Offline  |  Samsung Galaxy S10 SGDemo-0069_moved  |  RF8MA30SSDA
+5824969  |  Offline  |  Samsung Galaxy S9 SGDemo-0099_moved  |  29b8705c770c7ece
+3749513  |  Offline  |  OPPO F11 Pro SGDemo-0112  |  U4EYLRLV5LRGJFDU
+5771532  |  Offline  |  Google Pixel 6 US-0284_moved   |  1B251FDF600D7K
+3073706  |  Offline  |  Samsung Galaxy S20 US-0156_moved  |  RFCN600DD8T
+3253127  |  Offline  |  Google Pixel 3 US-0207_moved  |  8BDX18N8W
+5586446  |  Offline  |  Oppo R15 Pro  Sgdemo-0083_sent for repair  |  7cec4d2
+4443428  |  Offline  |  iPhone X US-0267_moved_to_pepsico  |  ba5d5f125b25b73f1ff8d1b262b7e8c43557b170
+3757585  |  Offline  |  Samsung Galaxy Note10 US-0189_Setup pending  |  R58MC1S60TN
+1882179  |  Offline  |  Samsung Galaxy S10 E US-0116_battery Bloated  |  R38N1055R2J
+3309264  |  Offline  |  Google Pixel 4 XL US-0211_Sent_for_repair  |  9A311FFBA009J5
+6511329  |  Offline  |  iPhone 11 Pro US-0294_moved_to_verizon  |  00008030-001C09A10206802E
+6934630  |  Offline  |  iPhone 12 US-0296_moved_to_verizon  |  00008101-000C353E0EF0001E
+3286540  |  Offline  |  iPhone 12 Pro US-0223_disconnected  |  00008101-000A050E3C52001E
+1104469  |  Offline  |  iPhone x SGDemo-0039  |  f58b0eeba77f6e50aeb15d60b420604a94f0dec9
+4233344  |  Offline  |  iPhone 12 US-0258_disconnected  |  00008101-000A2CAA3C60001E
+2371806  |  Offline  |  iPhone 7 SGDemo-0001  |  6f99dcf298cb6dac7303a4fde1c4fba707df79bb
+6036553  |  Offline  |  iPhone 12 SGDemo-0128_Moved  |  00008101-0000458E1AD8001E
+7127250  |  Offline  |  Huawei Mate 20 lite DE0084_Moved  |  HYF0219903000940
+5872193  |  Offline  |  Samsung Galaxy S10 SGDemo-0122_moved  |  R58M33V7MLN
+6036546  |  Offline  |  iPhone 13 mini SGDemo-0125_moved  |  00008110-0016550A3E98801E
